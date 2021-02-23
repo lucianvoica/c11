@@ -46,7 +46,7 @@ namespace c3
             Console.WriteLine(pers1.Nume + " " + pers1.Prenume);
 
             //string numeCompletP4 = p4.GetNumeComplet();
-            Console.WriteLine(numeCompletP4);
+            //Console.WriteLine(numeCompletP4);
 
             Console.ReadKey();
         }
